@@ -7,7 +7,7 @@ total_cost = 0
 individual_revenue = [0] * len(vegetables)
 customers = []
 
-print("WELCOME TO SUPERMART")
+print("WELCOME TO ANVITHA SUPERMART")
 
 while True:
     print("\nSelect user type:")
@@ -269,3 +269,4 @@ while True:
 
     else:
         print("Invalid user type! Please enter 'owner' or 'customer'.")
+
